@@ -1,36 +1,45 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chris K. Covert",
+    "label": "IT Professional",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chris.covert@outlook.com",
+    "phone": "(905) ***-****",
+    "url": "https://chriskcovert.github.io",
+    "summary": "A Nova Scotian born Canadian Citizen. University educated at Mount Allison with a Bachelor of Science in Biochemistry. IT professional with a career path as Developer, then Systems Analyst, and now an IT Project Manager.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "hidden",
+      "postalCode": "hidden",
+      "city": "Richmond Hill",
+      "countryCode": "CA",
+      "region": "Ontario"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "covertchris",
+        "url": "https://www.linkedinIn.com/ln/covertchris"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "GFL Environmental",
+      "position": "Senior IT Project Manager",
+      "url": "https://www.gflenvironmental.com",
+      "startDate": "2023-08-01",
+      "endDate": "2025-06-01",
+      "summary": "Managing software upgrades, software implementations networking, cybersecurity, device rollouts, new office location IT workstreams/deliverables ",
+      "highlights": ["Salesforce Custom Webapp, IT Implmentation for new office move (3 new floors for 200 personnel)"]
+    }
+    {
+      "name": "IDS",
+      "position": "Enterprise Project Manager",
+      "url": "https://www.ids.com",
+      "startDate": "2020-08-01",
+      "endDate": "2030-08-01",
+      "summary": "Managing software upgrades, new features, software development, delivery/release management for windows clients, terminal clients, APIs, web applications, Android & Apple native Mobile applications ",
+      "highlights": ["Salesforce Custom Webapp, IT Implmentation for new office move (3 new floors for 200 personnel)"]
     }
   ],
   "volunteer": [
