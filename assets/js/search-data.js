@@ -414,7 +414,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-making-things-happen-mastering-project-management",
+          title: 'Making Things Happen - Mastering Project Management',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/makingthingshappen/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
