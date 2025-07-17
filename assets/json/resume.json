@@ -81,17 +81,17 @@
       "name": "Teranet Inc",
       "position": "Senior Enterprise Systems Analyst",
       "url": "https://www.teranet.ca",
-      "startDate": "2016-04-01",
-      "endDate": "2018-03-01",
+      "startDate": "2006-05-01",
+      "endDate": "2015-08-01",
       "summary": "Systems analysis, change management, web applications development & support for Epicor Finance ERP.Systems support for SAP Finance and BI ",
-      "highlights": ["Full end to end ERP support. Project management of SAP Implementation & BI"]
+      "highlights": ["Full end to end ERP support. Project management of SAP IT Implementation & BI"]
     },
     {
       "name": "Scotiabank",
       "position": "Intermediate Programmer/Analyst",
       "url": "https://www.scotiabank.com",
-      "startDate": "2006-05-01",
-      "endDate": "2015-08-01",
+      "startDate": "2001-01-01",
+      "endDate": "2006-05-01",
       "summary": "Programmer/Analyst for Domestic Banking Forecasting and Budgeting application suite",
       "highlights": ["Solo development of 5 service releases of flagship forecasting and budgeting system"]
     }
