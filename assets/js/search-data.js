@@ -420,7 +420,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/cissp/";
             },},{id: "books-making-things-happen-mastering-project-management",
-          title: 'Making Things Happen - Mastering Project Management',
+          title: 'Making Things Happen Mastering Project Management',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/makingthingshappen/";
