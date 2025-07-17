@@ -117,7 +117,7 @@
       "studyType": "Certificate",
       "startDate": "2004-09-01",
       "endDate": "2006-09-01",
-      "courses": ["8"]
+      "courses": ["8 courses"]
     },
      {
       "institution": "Information Technology Institute",
@@ -127,7 +127,7 @@
       "studyType": "Diploma",
       "startDate": "1999-01-01",
       "endDate": "1999-11-01",
-      "courses": ["10"]
+      "courses": ["10 courses"]
     },
     {
       "institution": "Mount Allison University",
@@ -137,7 +137,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "1993-09-01",
       "endDate": "1997-05-01",
-      "courses": ["40"]
+      "courses": ["40 courses"]
     }
    ],
    "awards": [
