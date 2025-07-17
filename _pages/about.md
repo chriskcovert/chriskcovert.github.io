@@ -9,7 +9,7 @@ profile:
   image: 2025_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Richmond Hill, Ontario</p>
+    <p>Richmond Hill, Ontario </p>
     <p></p>
     <p></p>
 
