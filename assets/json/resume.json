@@ -56,8 +56,8 @@
       "url": "https://www.paytm.com",
       "startDate": "2018-09-01",
       "endDate": "2019-03-01",
-      "summary": "Management of cybersecurity EDR rollout, bug bounty program improvements, custom IAM web application integrations ",
-      "highlights": ["Rollout of Endpoint Detection & Response solution to thousands of servers and thousands of laptops/PCs)
+      "summary": "Management of cybersecurity EDR rollout, bug bounty program improvements, custom IAM web application integrations",
+      "highlights": ["Rollout of Endpoint Detection & Response solution to 4000+ servers and 9000+ laptops/PCs"]
     },
     {
       "name": "Ethoca Ltd",
@@ -100,8 +100,8 @@
       {
       "institution": "Ryerson University",
       "location": "Toronto, Ontario ",
-      "url": "https://www.uzh.ch/",
-      "area": "|Project Management",
+      "url": "https://www.torontomu.ca",
+      "area": "Project Management",
       "studyType": "Certificate",
       "startDate": "2004-09-01",
       "endDate": "2006-09-01",
@@ -160,23 +160,26 @@
     {
       "name": "Lean IT",
       "date": "2013-05-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "issuer": "Peoplecert",
+      "url": "https://www.peoplecert.org/products/lean-it-certification-family",
       "icon": "fa-solid fa-calendar"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Project Management and Information Technology",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "IT Project Management",
+        "AI Tools for Project Management",
+        "Capacity Planning",
+        "Stakeholder Communications",
+        "MS Project, ClickUp, Asana, Clarity PPM, Servicenow SPM",
+        "JIRA Administration & Development",
+        "Python, n8n Automation",
+        "SQL, Excel, VBA,",
+        "Download resume for full list"
       ]
     }
   ],
@@ -186,10 +189,11 @@
       "fluency": "Native speaker",
       "icon": ""
     },
-    {
-      "language"Intermediate",
-      "icon": ""
-    }
+    {      
+      "language":"Spanish",
+      "fluency":"Intermediate",
+      "icon":""      
+    } 
   ],
   "interests": [
     {
