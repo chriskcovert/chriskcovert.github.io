@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Making Things Happen - Mastering Project Management
+title: Making Things Happen Mastering Project Management
 author: Scott Berkun
 cover: assets/img/book_covers/makingthingshappen.jpg
 olid: OL23115900M # use Open Library ID to fetch cover (if no `cover` is provided)
@@ -13,7 +13,7 @@ finished: 2025-10-01
 released: 2008
 stars: 4
 goodreads_review:
-status: In-Progress
+status: Reading
 ---
 
 Reading this for the 3rd time since first purchased in 2008
