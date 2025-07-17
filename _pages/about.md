@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>
 
 profile:
   align: right
-  image: ChatGPTImage.jpg
+  image: 2025_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Richmond Hill, Ontario</p>
