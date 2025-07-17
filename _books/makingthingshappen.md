@@ -16,5 +16,5 @@ goodreads_review:
 status: Reading
 ---
 
-Reading this for the 3rd time since first purchased in 2008
+Reading this for the 3rd time since first purchased in 2008.
 A finish date in the future is the intended finish date.
