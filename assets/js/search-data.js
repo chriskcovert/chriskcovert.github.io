@@ -414,7 +414,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-making-things-happen-mastering-project-management",
+      },{id: "books-cissp",
+          title: 'CISSP',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/cissp/";
+            },},{id: "books-making-things-happen-mastering-project-management",
           title: 'Making Things Happen - Mastering Project Management',
           description: "",
           section: "Books",handler: () => {
