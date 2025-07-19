@@ -3,37 +3,45 @@
   contents:
     - name: Full Name
       value: Chris Covert
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+ #   - name: Date of Birth
+ #     value: 14th March 1879
+    - name: Contact Information
+      value: chris.covert@outlook.com - www.linkedin.com/ln/covertchris - 905 884 0031
 
+#-title: Professional Profile
+ 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Certificate of Project Management
+      institution: Toronto Metropolitan University
+      year: 2006
       description:
         - Description 1.
         - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+  #     - title: Description 3.
+  #        contents:
+  #         - Sub-description 1.
+  #         - Sub-description 2.
+    - title: Diploma of Applied Information Technology
+      institution: Information Technology Institute
+      year: 1999
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+        - Software & Web Development
+        - Networking & Security
+- title: Bachelor of Science (Biochemistry)
+      institution: Information Technology Institute
+      year: 1997
+    #  description:
+    #    - Software & Web Development
+    #    - Networking & Security
+        
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior IT Project Manager
+      institution: GFL Environmental
+      year: 2023-Aug - 2025-Jun
       description:
         - Description 1.
         - Description 2.
@@ -68,16 +76,16 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items:
+#        - Nobel Prize in Physics
+#        - Matteucci Medal
+#    - year: 2029
+#      items:
+#        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
