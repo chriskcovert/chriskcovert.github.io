@@ -14,17 +14,13 @@
    - title: PMI Project Management Professional
      year: 2013 - 2028
      description: PMI - Project Management Institute
-
    - title: Certified Scrum Master
      year: 2018 - 2026
      description: Scrum Alliance
-  
    - title: Ecommerce Professional (CNP Fraud)
      description: The Fraud Practice
-   
    - title: ITIL Foundation
      description: Peoplecert
-   
    - title: Lean IT
      description: Peoplecert
 
@@ -67,7 +63,7 @@
         - project delivery for top 5 enterprise customers
         - terminal apps, windows forms, webapps, APIs, iOS, Android
         - dozens of versioned releases, patches, hotfixes, features succcessfully delivered
-
+        
     - title: IT Project Manager
       institution: Town of Newmarket
       year: Sep 2019 - Jun 2020
@@ -91,25 +87,25 @@
       - 8 projects successfully delivered
 
     - title: IT Project Manager
-        institution: Capegemini for Loblaw Group of Companies
-        year: Aug 2015 - Feb 2016
-        description:
-        - Project - CMDB enhancement & incident management improvements 
-        - workstreams delivered
+      institution: Capegemini for Loblaw Group of Companies
+      year: Aug 2015 - Feb 2016
+      description:
+      - Project - CMDB enhancement & incident management improvements 
+      - workstreams delivered
 
     - title: Senior Enterprise Systems Analyst
-        institution: Teranet Inc
-        year: May 2006 - Aug 2015
-        description:
-        - Projects - SAP Implmentation, SAP BI, Enterprise Content Management
-        - ERP systems analysis, custom development, reporting, support, incident response, change management
+      institution: Teranet Inc
+      year: May 2006 - Aug 2015
+      description:
+      - Projects - SAP Implmentation, SAP BI, Enterprise Content Management
+      - ERP systems analysis, custom development, reporting, support, incident response, change management
 
     - title: Intermediate Programmer/Analyst
-        institution: Scotiabank
-        year: Jan 2001 - May 2006
-        description:
-        - windows forms development, database development, website development
-        - application analysis, software development, software support
+      institution: Scotiabank
+      year: Jan 2001 - May 2006
+      description:
+      - windows forms development, database development, website development
+      - application analysis, software development, software support
 
 - title: Open Source Projects
   type: time_table
@@ -117,14 +113,12 @@
     - title: Road Atlas Companion
       year: 2015-now
       description: mobile app to compliment hardcopy Road Atlas publications
-      
-    -title: School Zone Notification
+    - title: School Zone Notification
       year: 2025-now
       description: mobile app to warn drivers within school zone
-
-    -title: Python Learning Projects
-     year: 2025-now
-     description: selected projects extended beyond the course curriculum
+    - title: Python Learning Projects
+      year: 2025-now
+      description: selected projects extended beyond the course curriculum
 
 #- title: Honors and Awards
 #  type: time_table
@@ -144,7 +138,7 @@
       items:
         - n8n Automation
         - Power Automate
-    - title: Business Development`
+    - title: Business Development
       items:
         - Business Case Development & Evaluation
         - Co-Founders Exploration & Networking
@@ -152,11 +146,11 @@
       items:
         - Online Courses
         - mobile app development
-    -title: AI general topics
+    - title: AI general topics
       items:
        - Online Courses
        - Online Research
 - title: Technology Learning, Exploration, & Development
   type: list
   contents:
-    - <u>Tech Stack:</u> n8n, cursor.com, Excel VBA, Python, SQL, SQLLite, Spatial Lite Library, Git, Jira
+    - <u>Tech Stack:</u> n8n, cursor.com, Excel VBA, Python, SQL, SQLLite, Spatial Lite Library, Git, Jira.
