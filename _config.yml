@@ -626,8 +626,7 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: https://1drv.ms/b/c/b627a5227c25bbf0/EbXqT4L0dnpIgYFIWA0B0vEB6d_bHje6rrCVlQOK_za6oA?e=J32iyD
- #   json: assets/json/resume.json # it can also be an url
+    json: assets/json/resume.json # it can also be an url
 
 jsonresume:
   - basics
