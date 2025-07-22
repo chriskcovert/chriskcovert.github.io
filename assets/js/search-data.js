@@ -51,18 +51,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-snapshot-of-a-technographic-service-theirstack-com",
-        
-          title: "A snapshot of a Technographic Service (Theirstack.com)",
-        
-        description: "Technical and business analysis of theirstack.com",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/theirstack/";
-          
-        },
-      },{id: "books-cissp",
+            },{id: "books-cissp",
           title: 'CISSP',
           description: "",
           section: "Books",handler: () => {
