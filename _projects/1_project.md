@@ -1,18 +1,17 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Discord Server Project Management Achievers
+description: Building engagement on a Discord Server dedicated to the profession of project management
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://discord.gg/3kdmRUs22q
 importance: 3
-category: work
+category: professional
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Discord is a communication platform designed for creating communities, offering text, voice, and video chat. It’s especially popular among gamers, creators, and online communities, but it's used by a wide range of groups—from study groups and hobby clubs to professional teams. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This is a project of mine. To build community in the project management profession using the Discord Service.
+
 
     ---
     layout: page
