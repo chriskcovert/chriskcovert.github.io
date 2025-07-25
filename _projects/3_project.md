@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: 100 Days of Python - Udemy Course
+description: Learning Python and using Github for SCC
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: endeavor
 ---
 
 Every project has a beautiful feature showcase page.
