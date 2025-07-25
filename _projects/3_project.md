@@ -2,23 +2,19 @@
 layout: page
 title: 100 Days of Python - Udemy Course
 description: Learning Python and using Github for SCC
-img: assets/img/1.jpg
+img: assets/img/100daysofpython_July_2025.png
 importance: 3
 category: endeavor
 ---
+Pursuing the completion of this course. With work, family, and other commitments this is difficult to complete in 100 days.
+Progess as July 25,2025: 11 of 100 days completed.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Code from the major projects will be stored in Github repositories
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The course is ranges in price from ~ $150 USD to $30 USD dpending on if there is a promotion or sale
+It can be found here: <a href="https://www.udemy.com/course/100-days-of-code/">Udemy 100 Days of Python with Dr. Angela Yu</a>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
