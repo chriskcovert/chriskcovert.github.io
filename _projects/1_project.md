@@ -17,7 +17,7 @@ This is a project of mine. To build community in the project management professi
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/discord.png
     ---
 
 <div class="row">
