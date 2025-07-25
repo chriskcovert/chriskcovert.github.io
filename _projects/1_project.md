@@ -2,7 +2,7 @@
 layout: page
 title: Discord Server Project Management Achievers
 description: Building engagement on a Discord Server dedicated to the profession of project management
-img: assets/img/7.jpg
+img: assets/img/discord.png
 redirect: https://discord.gg/3kdmRUs22q
 importance: 3
 category: Initiative
