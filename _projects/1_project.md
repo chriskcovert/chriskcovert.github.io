@@ -5,7 +5,7 @@ description: Building engagement on a Discord Server dedicated to the profession
 img: assets/img/discord.png
 redirect: https://discord.gg/3kdmRUs22q
 importance: 3
-category: work
+category: initiative
 ---
 
 Discord is a communication platform designed for creating communities, offering text, voice, and video chat. It’s especially popular among gamers, creators, and online communities, but it's used by a wide range of groups—from study groups and hobby clubs to professional teams. 
