@@ -41,11 +41,11 @@ This involves a tech stack and development tools of the following:
 -    Git 
 -    Github Desktop 
 -    Jekyll Template – I chose the Al-Folio template extremely popular and found in many tutorial wepages and YouTube videos. 
--    A JSON Linter for JSON: [JSONLint.com](https://www.jsonlint.com)JSONlint.com 
+-    A JSON Linter for JSON: [JSONLint.com](https://www.jsonlint.com)
 -    A Mark Down linter for MD Files: markdownlint-cli 
 -    A YAML Linter for YML/YAML Files: [Yamllint.com](https://www.yamllint.com)
 -    Text editor for various file editing: Sublime Text 
--    Github.com for hosting the GitHub Pages 
+-    [Github.com](https://www.github.com) for hosting the GitHub Pages 
 -    GitHub Actions for deployment of the site 
 
 This is not for the feint of heart to go down this path if for you the journey is not part of the adventure on the way to your destination. I tried for 2 weeks, and probably 20 hours of time to get this website up and running just locally let alone running on Github. Had I managed to get the website running locally on my PC, it certainly would not guarantee it would work on Github where the amount of fine grained control would be even less. 
@@ -91,10 +91,16 @@ If you are a project manager or product manager and would like help getting a Gi
 <hr>
 ### Human Intelligence Metrics 
 
--[x]   Research: 1 hour
--[x]   Writing & Editing: 1 hour
--[x]   Peer Review / Feedback Loop: 30 minutes 
--[x]   Total Work Time: 2.5 hours 
--[x]   First Ideation: July 15, 2025
--[x]   Publication Date: July 31, 2025
--[x]   Total Elapsed Time: 16 Days
+- [x]    Research: 1 hour 
+
+- [x]    Writing & Editing: 1 hour 
+
+- [x]    Peer Review / Feedback Loop: 30 minutes 
+
+- [x]    Total Work Time: 2.5 hours 
+
+- [x]    First Ideation: July 15, 2025
+
+- [x]    Publication Date: July 31, 2025
+
+- [x]    Total Elapsed Time: 16 Days 
