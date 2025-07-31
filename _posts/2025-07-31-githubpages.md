@@ -1,6 +1,6 @@
 ---
 layout: post
-title:An Adventure in GitHub Pages Website Publishing
+title: An Adventure in GitHub Pages Website Publishing
 date: 2025-07-31 12:00:00
 description: Sharing a story of publishing to GitHub Pages
 tags: social
@@ -10,7 +10,7 @@ categories: professional
 <hr>
 I have been working on my professional portfolio site which is can be used to compliment one’s LinkedIn profile and presence. As a project manager by profession and more broadly a technology enthusiast, I wanted to create an online presence beyond profiles on Social Media Sites like LinkedIn. A lot of job application sites that are SaaS for companies that have job openings now have more than just a place to add your LinkedIn profile address in the submission page. 
 
-Many job application sites now give the option to include not just a LinkedIn URL: 
+Many job application sites now give the option to include not just a LinkedIn URL 
 
 
 -   Your personal website (the intention being your professional website) 
