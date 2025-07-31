@@ -51,15 +51,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-an-adventure-in-github-pages-website-publishing",
         
-          title: "",
+          title: "An Adventure in GitHub Pages Website Publishing",
         
-        description: "",
+        description: "Sharing a story of publishing to GitHub Pages",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-07-31-githubpages/";
+            window.location.href = "/blog/2025/githubpages/";
           
         },
       },{id: "post-a-snapshot-of-a-technographic-service-theirstack-com",
