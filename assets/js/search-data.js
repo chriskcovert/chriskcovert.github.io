@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-snapshot-of-a-technographic-service-theirstack-com",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/2025-07-31-githubpages/";
+          
+        },
+      },{id: "post-a-snapshot-of-a-technographic-service-theirstack-com",
         
           title: "A snapshot of a Technographic Service (Theirstack.com)",
         
