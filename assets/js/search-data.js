@@ -51,15 +51,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-an-adventure-in-github-pages-website-publishing",
+            },{id: "post-the-world-zeitgeist-free-choice-best-sellers-hit-songs-and-the-mere-exposure-effect",
         
-          title: "An Adventure in GitHub Pages Website Publishing",
+          title: "The World Zeitgeist, Free Choice, Best Sellers, Hit Songs, and the Mere-Exposure Effect...",
         
-        description: "Sharing a story of publishing to GitHub Pages",
+        description: "How Ai influences the Meer-Exposure Effect",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/mere_exposure/";
+            window.location.href = "/blog/2025/mereexposure/";
           
         },
       },{id: "post-an-adventure-in-github-pages-website-publishing",
