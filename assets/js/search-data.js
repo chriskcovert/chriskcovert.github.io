@@ -59,6 +59,17 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
+            window.location.href = "/blog/2025/mere_exposure/";
+          
+        },
+      },{id: "post-an-adventure-in-github-pages-website-publishing",
+        
+          title: "An Adventure in GitHub Pages Website Publishing",
+        
+        description: "Sharing a story of publishing to GitHub Pages",
+        section: "Posts",
+        handler: () => {
+          
             window.location.href = "/blog/2025/githubpages/";
           
         },
